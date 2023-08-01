@@ -1,4 +1,4 @@
-# raylib-android-studio
+# raylib-androidstudio-template
 Android Studio project setup so you can start using raylib right away on Android
 ## Installation
 1. Clone or download the repo
